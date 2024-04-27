@@ -61,9 +61,4 @@ Os componentes de infraestrutura do projeto foram o PostgreSQL como banco de dad
 No que diz respeito ao impacto no projeto, a incorporação dessas tecnologias à arquitetura MVC resulta em um desenvolvimento coeso e consistente. A utilização do framework Sails.js impulsiona o progresso, oferecendo recursos para lidar com a lógica dos bancos de dados e, além disso, a adoção de tecnologias de código aberto amplia a adaptabilidade do projeto. Essas escolhas colaboram para a aplicação da metodologia ágil dentro do projeto e entre a equipe, facilitando, também, a criação de um ambiente produtivo e com suporte para a equipe.
 
 #### Implicações da Arquitetura:
-Descreva as implicações da arquitetura em termos de escalabilidade, manutenção, testabilidade e outros aspectos importantes.
-
-### Recursos Adicionais:
-Documentação do Sails.js: https://github.com/balderdashy/sails
-Tutorial do draw.io: https://m.youtube.com/watch?v=w3zm-wbmlpc
-Exemplos de diagramas MVC: https://www.lucidchart.com/pages/templates
+A implementação do padrão Model-View-Controller (MVC) no projeto "DellAware" da LedTech/Dell traz benefícios significativos em termos de escalabilidade, manutenção, testabilidade e colaboração entre equipes de desenvolvimento. A separação clara de responsabilidades entre Model, View e Controller possibilita uma escalabilidade eficiente, facilitando respostas ágeis a mudanças na demanda ou volume de dados. A divisão em três componentes distintos simplifica a manutenção, permitindo atualizações e correções de bugs diretas e independentes. A testabilidade é aprimorada, já que cada componente pode ser testado isoladamente, garantindo o correto funcionamento do sistema. Além disso, a adoção do MVC promove uma colaboração mais eficiente entre equipes, com responsabilidades bem definidas e foco nas especializações individuais, resultando em contribuições mais eficazes para o projeto.
