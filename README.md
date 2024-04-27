@@ -1,10 +1,10 @@
 # MVC do DellAware - lLedTech
 
 # Template Readme para Arquitetura MVC em Markdown
-- Nome do Projeto: [Insira o nome do seu projeto]
-- Descrição: [Insira uma breve descrição do seu projeto]
+- Nome do Projeto: DellAware
+- Descrição: Aplicação web para a Dell Technologies com foco em otimizar a linha de produção, reduzindo pausas e melhorando o treinamento dos funcionários. Além disso, os administradores poderão gerenciar e atualizar manuais, documentos, imagens, vídeos, modelos 3D, etc. Isso permitirá que os funcionários aprendam rapidamente novos processos, mantenham-se atualizados sobre mudanças e revisem informações sobre produtos antigos.
 - Arquitetura: MVC (Model-View-Controller)
-- Ferramenta de Diagramação: [Insira a ferramenta de diagramação utilizada, ex: draw.io]
+- Ferramenta de Diagramação: draw.io
 
 ### Modelos (Models):
 - Descreva as entidades do seu projeto e seus atributos.
