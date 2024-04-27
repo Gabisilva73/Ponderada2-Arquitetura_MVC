@@ -54,15 +54,12 @@ Os controladores do DellAware são divididos entre manuais, montadores e adminis
 
 Os componentes de infraestrutura do projeto foram o PostgreSQL como banco de dados central, o Sails.js como framework de desenvolvimento, e HTML5 juntamente com CSS3 para a construção da interface do usuário (UI). Estas escolhas estão ligadas à arquitetura Modelo-Visão-Controlador (MVC), delineadas da seguinte maneira:
 
-- HTML5 e CSS3: Representam a camada de visualização (View) do MVC, responsável por apresentar os dados e interações ao usuário final.
 - Sails.js: Desempenha um papel importante como controlador e modelo (Controller/Model) na estrutura MVC. Serve para orquestrar a lógica de negócios (Controller) e modelar os dados (Model) da aplicação.
+- HTML5 e CSS3: Representam a camada de visualização (View) do MVC, responsável por apresentar os dados e interações ao usuário final.
 - PostgreSQL: Configura a base de dados do servidor (Server) dentro da estrutura MVC, armazenando e gerenciando os dados da aplicação de forma eficiente.
-
-Primeiramente, as soluções "open source" foram escolhidas, tal fator pode ser exemplificado pelo uso do Sails.js, para promover a acessibilidade e comunidade de colaboração. 
 
 No que diz respeito ao impacto no projeto, a incorporação dessas tecnologias à arquitetura MVC resulta em um desenvolvimento coeso e consistente. A utilização do framework Sails.js impulsiona o progresso, oferecendo recursos para lidar com a lógica dos bancos de dados e, além disso, a adoção de tecnologias de código aberto amplia a adaptabilidade do projeto. Essas escolhas colaboram para a aplicação da metodologia ágil dentro do projeto e entre a equipe, facilitando, também, a criação de um ambiente produtivo e com suporte para a equipe.
 
-### Justifique as escolhas feitas e como elas impactam o projeto.
 #### Implicações da Arquitetura:
 Descreva as implicações da arquitetura em termos de escalabilidade, manutenção, testabilidade e outros aspectos importantes.
 
