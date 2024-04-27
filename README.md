@@ -46,7 +46,8 @@ Os controladores do DellAware são divididos entre manuais, montadores e adminis
 - Login: Responsável por permitir que o usuário consiga logar na plataforma;
 - Homepage do montador: Local onde o montador verifica seus manuais dentro do kanban e acompanha quais tarefas ainda tem que realiar e quais já foram feitas;
 - Dashboard do administrador: Local onde o administrador acompanha o desenvolvimento e desempenho geral da equipe.
-- Repositório: Local onde ocorre a delegação dos manuais para as linhas de montagem e permite que o administrador atualize ou adicione manuais. 
+- Repositório: Local onde ocorre a delegação dos manuais para as linhas de montagem e permite que o administrador atualize ou adicione manuais.
+- Perfil do funcionário: Local onde a foto de perfil, o desempenho e os dados do funcionário são disponibilizados.
 
 
 ### Infraestrutura:
